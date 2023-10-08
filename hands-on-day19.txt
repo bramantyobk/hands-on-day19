@@ -1,0 +1,33 @@
+
+
+Business Understading
+Common Software Understanding
+1. Watterfall
+  a. Analysis
+  b. Requirement Spesification
+  c. Design
+  d. Development
+  e. Testing and Integration
+  f. Implementation or Deployment
+2. Agile
+  a. Plan
+  b. Design
+  c. Development
+  d. Test
+  e. Deploy
+  f. Review
+  g. Launch
+  h. Repeat process a. (Sprint (n))
+
+======
+Github
+======
+1. Buat repositori di Github
+2. Masuk terminal 
+  echo "# hands-on-day19" >> README.md
+  git init
+  git add README.md
+  git commit -m "first commit"
+  git branch -M main
+  git remote add origin https://github.com/bramantyobk/hands-on-day19.git
+  git push -u origin main
